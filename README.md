@@ -2,7 +2,7 @@
 Quebra o Silêncio RESTful API for a Domestic Violence Platform.  
 Built with Node.js / Express.js / MySQL / JSONWebToken / Sequelize  
   
-This repo doesn't contatin heroku commits and config files.  
+This repo doesn't contatin heroku commits / config files.  
   
 
   
